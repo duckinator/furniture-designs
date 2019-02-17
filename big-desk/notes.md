@@ -1,3 +1,4 @@
+<pre>
 desk frame width = 1400mm
 desk chunk width =  310mm * 4
 
@@ -10,6 +11,7 @@ a, b = 640mm
     =  1280mm total
 1, x, y = 40mm
     = 120mm total
+</pre>
 
 =============================
 
@@ -18,7 +20,7 @@ Component types and notes:
 * [59" x 29 1/2" black-brown Ikea table top][table-top]
 ** roughly 1500mm x 750mm table top.
 ** roughly 1400mm x 650mm top frame -- 50mm extra (roughly 2") on each side.
-* [https://8020.net/shop/45-4545-lite.html 80/20 45-4545-lite], 45x45mm T-slotted profile, $0.40/inch.
+* [80/20 45-4545-lite](https://8020.net/shop/45-4545-lite.html), 45x45mm T-slotted profile, $0.40/inch.
 
 <pre>
              $ 29.99   [table top][table-top]
