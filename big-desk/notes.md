@@ -23,14 +23,14 @@ Component types and notes:
 * [80/20 45-4545-lite](https://8020.net/shop/45-4545-lite.html), 45x45mm T-slotted profile, $0.40/inch.
 
 | Amount, Size | Price | Description |
-|------------|---------|-------------|
+|------------|--------:|-------------|
 | 1x         | $ 29.99 | [table top][table-top]
 | 5x  560mm  | $ 53.84 | top frame front-to-back pieces (3x), side frames (2x)
 | 2x 1400mm  | $ 47.99 | top frame long pieces
 | 1x 1320mm  | $ 22.74 | back cross piece
 | 4x  720mm  | $ 53.15 | legs (720mm == 28.3")
 | 8x         | $ 11.20 | [end caps for legs (4x), top frame long pieces (4x)][end-cap]
-| 18x        | $ 54.00 | [45-Series 2-Hole Inside Corner Brackets][brackets]
+| 18x        | $ 54.00 | [45-Series 2-Hole Inside Corner Brackets][bracket]
 | 36x        | $ 10.80 | [M8x18mm button-head socket cap screws][screw]
 | 36x        | $ 26.64 | [45-Series M8 Standard Drop-in T-Nut][t-nut]
 |------------|---------|------|
