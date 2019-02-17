@@ -18,8 +18,8 @@ a, b = 640mm
 Component types and notes:
 
 * [59" x 29 1/2" black-brown Ikea table top][table-top]
-** roughly 1500mm x 750mm table top.
-** roughly 1400mm x 650mm top frame -- 50mm extra (roughly 2") on each side.
+  * roughly 1500mm x 750mm table top.
+  * roughly 1400mm x 650mm top frame -- 50mm extra (roughly 2") on each side.
 * [80/20 45-4545-lite](https://8020.net/shop/45-4545-lite.html), 45x45mm T-slotted profile, $0.40/inch.
 
 <pre>
